@@ -1,5 +1,5 @@
 // JAVA 8  
-
+// w = e^(-2*pi*i/N)
 import java.util.Scanner;
 
 public class FFTImplementation {
